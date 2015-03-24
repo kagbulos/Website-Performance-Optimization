@@ -1,0 +1,8 @@
+References I used:
+http://www.w3schools.com/js/js_htmldom_css.asp
+http://www.w3schools.com/jsref/met_document_queryselectorall.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+https://developers.google.com/speed/pagespeed/insights/
+http://www.w3schools.com/jsref/prop_style_top.asp
+http://www.w3schools.com/js/js_if_else.asp
+https://answers.yahoo.com/question/index?qid=20110120212239AARYzdY
